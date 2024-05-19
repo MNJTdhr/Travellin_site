@@ -1,0 +1,31 @@
+/* shared css */
+
+#page-logo a{
+    font-family: "Lobster", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: left;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px black;
+    padding: 10px 10px 10px 10px;
+    font-size: 50px;
+    color: rgb(203, 122, 0);
+}
+
+#nav-links ul{
+    list-style: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    margin: 10px;
+    /* text-align: center; */
+    background-color: rgb(255, 245, 190);
+}
