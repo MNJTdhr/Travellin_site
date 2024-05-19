@@ -11,6 +11,29 @@
     color: rgb(203, 122, 0);
 }
 
+header{
+    background-color: brown;
+    padding: 10px;
+    /* width: 600px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 10px;
+}
+
+header ul{
+    display: flex;
+    justify-content: flex-end;
+}
+
+header li{
+    padding: 10px 10px;
+}
+
+header a{
+    color: rgb(204, 255, 255);
+}
+
 #nav-links ul{
     list-style: none;
     text-align: right;
