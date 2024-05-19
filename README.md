@@ -1,3 +1,3 @@
 # Travellin site!
 
-An useless Travel site!
+a useless Travelin Site!
